@@ -8,9 +8,7 @@ Estudante de Engenharia de Software na Universidade Positivo, em busca de estág
 
 Projeto individual de um agente de automação que registra entradas e saídas de estoque e consulta o estoque atual por meio de um bot no Telegram, a partir de mensagens em linguagem natural. Desenvolvido com n8n, Gemini API e Google Planilhas.
 
-<!-- Descomente quando o repositório estiver criado e troque o nome:
 Repositório: [agente-estoque-telegram](https://github.com/rafaeltlsz/agente-estoque-telegram)
--->
 
 ### Calculadora em Python
 
