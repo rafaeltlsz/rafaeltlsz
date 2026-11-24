@@ -109,16 +109,6 @@ Gosto de entender como as partes de um sistema se conectam, testar soluções e 
   />
 </div>
 
-## Conquistas
-
-<div align="center">
-  <img
-    width="95%"
-    src="https://github-profile-trophy.vercel.app/?username=rafaeltlsz&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"
-    alt="Conquistas do GitHub"
-  />
-</div>
-
 ## Minha contribuição
 
 <div align="center">
